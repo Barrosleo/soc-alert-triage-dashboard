@@ -3,7 +3,7 @@
 
 ### docs/architecture.md
 
-```markdown
+
 # Architecture Overview
 
 ## System Components
