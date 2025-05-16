@@ -1,0 +1,23 @@
+[
+  {
+    "alert_id": "ALERT-001",
+    "timestamp": "2025-05-15T12:00:00Z",
+    "ip": "192.168.1.15",
+    "severity": 7,
+    "description": "Suspicious login attempt detected."
+  },
+  {
+    "alert_id": "ALERT-002",
+    "timestamp": "2025-05-15T11:55:00Z",
+    "ip": "192.168.1.45",
+    "severity": 3,
+    "description": "Multiple failed login attempts."
+  },
+  {
+    "alert_id": "ALERT-003",
+    "timestamp": "2025-05-15T11:50:00Z",
+    "ip": "192.168.1.100",
+    "severity": 9,
+    "description": "Potential malware communication detected."
+  }
+]
