@@ -1,0 +1,12 @@
+{
+  "name": "soc-alert-triage-dashboard-api",
+  "version": "1.0.0",
+  "description": "API for the SOC Alert Triage Dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
