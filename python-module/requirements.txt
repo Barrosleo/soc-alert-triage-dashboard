@@ -1,0 +1,4 @@
+# Basic requirements for the Python module.
+# No external libraries are required if you only use built-in modules,
+# but you can add packages as needed.
+
