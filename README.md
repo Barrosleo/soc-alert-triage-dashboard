@@ -41,7 +41,7 @@ For detailed explanations of the system components and data flow, please see the
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/soc-alert-triage-dashboard.git
+   git clone https://github.com/Barrosleo/soc-alert-triage-dashboard.git
    cd soc-alert-triage-dashboard
    ```
 2.  **Setup the Python Module:**
